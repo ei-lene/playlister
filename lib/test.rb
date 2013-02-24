@@ -1,4 +1,3 @@
-require './song.rb'
 require './artist.rb'
 require './genre.rb'
 
